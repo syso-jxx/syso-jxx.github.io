@@ -1,0 +1,5 @@
+The following destination is shared by multiple files.
+The written file may end up with unexpected contents.
+
+D:\git\github.io\_pages\home.md
+permalink : / 에서 /home/ 으로 변경 (22.06.27 21:00)
