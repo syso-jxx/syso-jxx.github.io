@@ -15,7 +15,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.7em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -24,6 +24,7 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
+    
 
     @include breakpoint($x-large) {
       max-width: $max-width;
@@ -50,6 +51,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  font-size: $type-size-1;
   // z-index: 20;
 }
 
