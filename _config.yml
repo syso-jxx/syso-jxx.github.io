@@ -20,7 +20,7 @@ title                    : "Hello, world!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yujin Cho"
-description              : "개발자의 블로그"
+description              : "Connecting to the New World . . ."
 url                      : "https://syso-jxx.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/syso-jxx/syso-jxx.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
