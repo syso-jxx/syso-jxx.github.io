@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/syso-jxx"
+      url: "https://github.com/syso-jxx"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -286,7 +286,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false   # 읽는데 걸리는 소요시간 표시
+      show_date: true    # 포스팅 날짜 표시
       comments: true
       share: true
       related: true

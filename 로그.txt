@@ -3,3 +3,20 @@ The written file may end up with unexpected contents.
 
 D:\git\github.io\_pages\home.md
 permalink : / 에서 /home/ 으로 변경 (22.06.27 21:00)
+
+
+
+
+
+https://evan-moon.github.io/
+https://mmistakes.github.io/minimal-mistakes/
+https://eona1301.github.io/a_to_z/GithubBlog/
+https://velog.io/@yukina1418
+https://dannsgo.com/
+
+bundle exec jekyll serve
+
+좌측에 카테고리 넣기
+메인 페이지 수정
+게스트 댓글 안 보이는 문제
+
