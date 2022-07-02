@@ -529,14 +529,17 @@ body {
   margin-top: 2em;
   padding-top: 1em;
   border-top: 1px solid $border-color;
+  
 
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+  //  float: right;
+    width: calc(100% - #{$right-sidebar-width-narrow} - #{$right-sidebar-width-narrow});
+    margin-left: #{$right-sidebar-width-narrow};
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: calc(100% - #{$right-sidebar-width} - #{$right-sidebar-width});
+    margin-left: #{$right-sidebar-width};
   }
 
   a {
