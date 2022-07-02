@@ -19,20 +19,3 @@ bundle exec jekyll serve
 좌측에 카테고리 넣기
 메인 페이지 수정
 게스트 댓글 안 보이는 문제
-
-.page {
-    float: right;
-    width: calc(100% - 100px);
-    padding-right: 100px;
-}
-
-@include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
-}
-
-@include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
-}
