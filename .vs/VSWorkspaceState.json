@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_includes\\head",
-    "\\_sass",
+    "\\_posts",
     "\\_sass\\minimal-mistakes"
   ],
-  "SelectedNode": "\\_sass\\minimal-mistakes\\_page.scss",
+  "SelectedNode": "\\_sass",
   "PreviewInSolutionExplorer": false
 }
