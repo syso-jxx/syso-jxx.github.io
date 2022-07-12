@@ -15,7 +15,3 @@ https://velog.io/@yukina1418
 https://dannsgo.com/
 
 bundle exec jekyll serve
-
-좌측에 카테고리 넣기
-메인 페이지 수정
-게스트 댓글 안 보이는 문제
